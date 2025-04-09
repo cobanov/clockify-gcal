@@ -176,3 +176,4 @@ cython_debug/
 # Google Calendar credentials
 credentials.json
 token.pickle
+*.db
