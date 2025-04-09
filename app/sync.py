@@ -1,6 +1,6 @@
-from db import Database
-from gcal import GoogleCalendar
-from config import logger
+from app.db import Database
+from app.gcal import GoogleCalendar
+from app.config import logger
 
 
 class Sync:

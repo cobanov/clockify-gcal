@@ -1,5 +1,5 @@
 import sqlite3
-from config import logger
+from app.config import logger
 
 
 class Database:

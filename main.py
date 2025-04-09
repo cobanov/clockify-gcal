@@ -1,7 +1,7 @@
-from config import Config, logger
-from db import Database
-from clockify import ClockifyAPI
-from sync import Sync
+from app.config import Config, logger
+from app.db import Database
+from app.clockify import ClockifyAPI
+from app.sync import Sync
 
 
 def main():

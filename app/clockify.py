@@ -1,6 +1,6 @@
 import requests
 from datetime import datetime, timedelta
-from config import Config, logger
+from app.config import Config, logger
 
 
 class ClockifyAPI:
