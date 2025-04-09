@@ -31,12 +31,3 @@ python main.py
 ```
 
 On first run, a browser window will open to authenticate with Google. This will create a `token.pickle` file that stores your authentication credentials for future use.
-
-## Modules
-
-- `config.py`: Application configuration
-- `db.py`: Database operations for tracking synced entries
-- `gcal.py`: Google Calendar integration
-- `clockify.py`: Clockify API integration
-- `sync.py`: Synchronization logic
-- `main.py`: Main application entry point
