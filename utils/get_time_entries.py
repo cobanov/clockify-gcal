@@ -1,4 +1,4 @@
-from scrip import ClockifyAPI
+from redundant.scrip import ClockifyAPI
 from pprint import pprint
 from datetime import datetime, timedelta
 from datetime import datetime, timedelta, UTC
