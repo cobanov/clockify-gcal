@@ -7,7 +7,7 @@ from app.sync import Sync
 def main():
     """Main function to run the sync process"""
     # Check configuration
-    if not Config.validate():
+    if not Config.validate(): 
         return
 
     # Initialize database
